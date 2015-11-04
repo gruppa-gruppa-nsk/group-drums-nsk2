@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <drumkit_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.hydrogen-music.org/drumkit">
  <name>group-drums-nsk2</name>
- <author>Rinon Ninquenon, Alexander, </author>
+ <author>Rinon Ninquenon, Alexander, etc.</author>
  <info>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 &lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -9409,117 +9409,6 @@ p, li { white-space: pre-wrap; }
    </layer>
   </instrument>
   <instrument>
-   <id>52</id>
-   <name>hihatSemiOpen3_OH_P</name>
-   <drumkit>group-drums-nsk2</drumkit>
-   <volume>0.58</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>false</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>10</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>/hihatSemiOpen3_OH_P_1.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>0.2</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-   <layer>
-    <filename>/hihatSemiOpen3_OH_P_2.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.2</min>
-    <max>0.4</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-   <layer>
-    <filename>/hihatSemiOpen3_OH_P_3.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.4</min>
-    <max>0.6</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-   <layer>
-    <filename>/hihatSemiOpen3_OH_P_4.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.6</min>
-    <max>0.8</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-   <layer>
-    <filename>/hihatSemiOpen3_OH_P_5.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.8</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
    <id>51</id>
    <name>hihatSemiOpen3_OH_F</name>
    <drumkit>group-drums-nsk2</drumkit>
@@ -9631,8 +9520,8 @@ p, li { white-space: pre-wrap; }
    </layer>
   </instrument>
   <instrument>
-   <id>54</id>
-   <name>hihatSemiOpen4_OH_P</name>
+   <id>52</id>
+   <name>hihatSemiOpen3_OH_P</name>
    <drumkit>group-drums-nsk2</drumkit>
    <volume>0.58</volume>
    <isMuted>false</isMuted>
@@ -9656,7 +9545,7 @@ p, li { white-space: pre-wrap; }
    <midiOutChannel>10</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/hihatSemiOpen4_OH_P_1.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9673,7 +9562,7 @@ p, li { white-space: pre-wrap; }
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>/hihatSemiOpen4_OH_P_2.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9690,7 +9579,7 @@ p, li { white-space: pre-wrap; }
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>/hihatSemiOpen4_OH_P_3.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9707,7 +9596,7 @@ p, li { white-space: pre-wrap; }
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>/hihatSemiOpen4_OH_P_4.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9724,7 +9613,7 @@ p, li { white-space: pre-wrap; }
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>/hihatSemiOpen4_OH_P_5.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9836,6 +9725,117 @@ p, li { white-space: pre-wrap; }
    </layer>
    <layer>
     <filename>/hihatSemiOpen4_OH_F_5.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.8</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>54</id>
+   <name>hihatSemiOpen4_OH_P</name>
+   <drumkit>group-drums-nsk2</drumkit>
+   <volume>0.58</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>10</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/hihatSemiOpen4_OH_P_1.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0</min>
+    <max>0.2</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+   <layer>
+    <filename>/hihatSemiOpen4_OH_P_2.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.2</min>
+    <max>0.4</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+   <layer>
+    <filename>/hihatSemiOpen4_OH_P_3.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.4</min>
+    <max>0.6</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+   <layer>
+    <filename>/hihatSemiOpen4_OH_P_4.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.6</min>
+    <max>0.8</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+   <layer>
+    <filename>/hihatSemiOpen4_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
